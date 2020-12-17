@@ -438,6 +438,10 @@ body {
   margin-bottom: 5%;
 }
 
+.fixbox2 {
+  padding-top: 15px;
+}
+
 .glogo {
   width: 160px;
 }
@@ -451,19 +455,21 @@ body {
   font-size: 18px;
 }
 
+.fa-whatsapp-square {
+  color: #0ba3cd;
+  font-size: 23px;
+  padding-left: 0%;
+}
+
 .fa-address-card {
   color: #0ba3cd;
   font-size: 18px;
 }
 
-.fixbox2 {
-  padding-top: 15px;
-}
-
 .icon-button-3d {
   display: flex;
   color: #fff;
-  width: 12em;
+  width: 220px;
   background-color: transparent;
   transition: transform .2s ease;
   cursor: pointer;
@@ -477,7 +483,6 @@ body {
   box-shadow: 0 .3em 0 0 #195ac6;
   text-align: left;
   min-width: min-content;
-  text-transform: uppercase;
   font-weight: 600;
   border-bottom-left-radius: 5px;
   border-top-left-radius: 5px;
